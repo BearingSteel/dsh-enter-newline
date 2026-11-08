@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Enter で改行",
+    "description": "Enter で改行し、Shift+Enter で送信します。送信ボタンのヒントにショートカットを表示します。"
+  }
+}

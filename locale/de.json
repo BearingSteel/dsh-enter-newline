@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Enter für Zeilenumbruch",
+    "description": "Enter fügt einen Zeilenumbruch ein, Shift+Enter sendet, und der Senden-Hinweis zeigt die Tastenkombination."
+  }
+}

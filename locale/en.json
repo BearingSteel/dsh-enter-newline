@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Enter for newline",
+    "description": "Enter inserts a newline, Shift+Enter sends, and the Send tooltip shows the shortcut."
+  }
+}
