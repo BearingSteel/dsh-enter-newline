@@ -2,7 +2,7 @@
   "name": "dsh-enter-newline",
   "version": "1.0.0",
   "private": true,
-  "description": "Enter inserts a newline, Shift+Enter sends, and Send tooltips show the shortcut.",
+  "description": "Enter inserts a newline and Shift+Enter sends the message.",
   "type": "module",
   "exports": {
     ".": "./index.js",

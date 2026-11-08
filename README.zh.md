@@ -2,7 +2,7 @@
 
 [English](README.md) | 中文
 
-一个用于 DSH Web UI 对话输入框的插件，**调换了换行与发送按键**：**Enter 插入换行**，**Shift+Enter 发送消息**；发送按钮的提示气泡会显示该快捷键。
+一个用于 DSH Web UI 对话输入框的插件，**调换了换行与发送按键**：**Enter 插入换行**，**Shift+Enter 发送消息**。
 
 ## 行为
 

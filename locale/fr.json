@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Entrée pour une nouvelle ligne",
-    "description": "Entrée insère une nouvelle ligne, Maj+Entrée envoie, et l'infobulle d'envoi affiche le raccourci."
+    "description": "Entrée insère une nouvelle ligne et Maj+Entrée envoie le message."
   }
 }

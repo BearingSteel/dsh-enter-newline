@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "回车换行",
-    "description": "回车插入换行，Shift 回车发送消息；发送按钮的提示会显示该快捷键。"
+    "description": "Enter 插入换行，Shift+Enter 发送消息。"
   }
 }

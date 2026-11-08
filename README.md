@@ -2,7 +2,7 @@
 
 English | [中文](README.zh.md)
 
-An installable DSH Web UI plugin that swaps the conversation composer's Enter behavior: **Enter inserts a newline**, and **Shift+Enter sends the message**. The Send tooltip shows the shortcut.
+An installable DSH Web UI plugin that swaps the conversation composer's Enter behavior: **Enter inserts a newline**, and **Shift+Enter sends the message**.
 
 ## Behavior
 
